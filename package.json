@@ -8,7 +8,7 @@
     "install-client": "cd client && npm install",
     "install": "npm run install-server && npm run install-client",
     "server": "npm run watch --prefix server",
-    "client": "npm start --prefix client", 
+    "client": "npm start --prefix client",
     "watch": "npm run server & npm run client",
     "deploy": "cd client && npm run build && cd .. && npm run server",
     "test": "npm run test --prefix server && npm run test --prefix client"
@@ -23,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/NAT-zz/BaiTap---Nasa-/issues"
   },
-  "homepage": "https://github.com/NAT-zz/BaiTap---Nasa-#readme"
+  "homepage": "https://github.com/NAT-zz/BaiTap---Nasa-#readme",
+  "dependencies": {
+    "morgan": "^1.10.0"
+  }
 }

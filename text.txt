@@ -1,5 +1,3 @@
-Sinh viên xem hướng dẫn về website tại link: videos
-
 (Các clip hướng dẫn bàng tiếng Anh theo thứ tự 01... --> 25.  sinh viên phải xem và làm theo đúng thứ tự)
 Các file data, souce code tham khảo: https://hcmuteeduvn-my.sharepoint.com/:f:/g/personal/phunghx_ms_hcmute_edu_vn/EmBMniU5DfBNiBBnGsWxfegBd0DMuXYkBVrSBuCJHwMlew?e=4354PB
 
