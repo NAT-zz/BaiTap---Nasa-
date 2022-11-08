@@ -8,3 +8,13 @@ Làm lại theo video và quay phim lại quá trình thực hiện (khôn
 Sinh viên làm đầy đủ các bước theo video, thiếu bước nào sẽ bị trừ điểm tương ứng
 Sinh viên nộp lại link github chương trình + link video (có thể upload youtube hoặc google drive)
 Hướng dẫn quay phim màn hình: sử dụng chương trình https://www.apowersoft.com/free-online-screen-recorder
+
+
+
+
+
+Sinh viên quay phim lại màn hình quá trình thực hiện:
+Tiếp tục với project tuần trước, sinh viên viết các hàm test cho tất cả các end points, 
+các request (POST/GET) của project Nasa (week 7) sử dụng Supertest: https://www.npmjs.com/package/supertest
+
+Sinh viên nộp lại link github + video quá trình thực hiện (yêu cầu video phải hiện thông tin MSSV trong tên folder chính)
