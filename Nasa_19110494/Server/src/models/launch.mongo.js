@@ -1,0 +1,39 @@
+const mongo = require('mongoose');
+
+const launchSchema = new mongo.Schema({
+    flightNumber: {
+        type: Number,
+        required: true
+    },
+    mission: {
+        type: String,
+        required: true,
+    },
+    rocket: {
+        type: String,
+        required: true,
+    },
+    launchDate: {
+        type: Date,
+        default: null
+    },
+    target: {
+        type: String,
+        required: true
+    },
+    customers: {
+        type: [ String ]
+    },
+    upcoming: {
+        type: Boolean,
+        required: true,
+        default: true,
+    },
+    success: {
+        type: Boolean,
+        required: true,
+        default: true,
+    }
+})
+
+module.exports = mongo.model('Launch', launchSchema);
